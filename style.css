@@ -17,6 +17,12 @@ align-items: center;
 
 }
 
+section{
+    display: flex;
+    gap: 16px;
+}
+
+
 .cabecalho{
     color: white;
     padding: 15px 25px;
